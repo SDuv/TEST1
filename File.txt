@@ -1,2 +1,5 @@
 12345
 234456
+new line
+
+new line2
